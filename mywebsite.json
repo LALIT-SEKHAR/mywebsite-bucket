@@ -21,12 +21,22 @@
             "endedat":null
         },
         {
-            "name":"brickgame/",
+            "name":"brick game",
             "about": null,
             "logo":"https://raw.githubusercontent.com/LALIT-SEKHAR/BRICK-GAME/master/BRICKGAME.png",
             "demo_img": "https://raw.githubusercontent.com/LALIT-SEKHAR/mywebsite-bucket/master/website_screenshot/brickgame.png",
             "github":"https://github.com/LALIT-SEKHAR/BRICK-GAME",
             "website_link": "https://brickgame.lalitsekhar.dev/",
+            "startedat": null,
+            "endedat":null
+        },
+        {
+            "name":"age calculator",
+            "about": null,
+            "logo":"https://raw.githubusercontent.com/LALIT-SEKHAR/Age_Calculator/master/AgeCal.logo.png",
+            "demo_img": "https://raw.githubusercontent.com/LALIT-SEKHAR/mywebsite-bucket/master/website_screenshot/agecalculator.png",
+            "github":"https://github.com/LALIT-SEKHAR/Age_Calculator",
+            "website_link": "https://agecalculator.lalitsekhar.dev/",
             "startedat": null,
             "endedat":null
         }
