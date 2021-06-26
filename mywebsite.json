@@ -14,7 +14,7 @@
             "name":"movieflex",
             "about": null,
             "logo":"https://raw.githubusercontent.com/LALIT-SEKHAR/movieapp/master/public/movieflex_logo.png",
-            "demo_img":null,
+            "demo_img": "https://raw.githubusercontent.com/LALIT-SEKHAR/mywebsite-bucket/master/website_screenshot/movieflex.png",
             "github":"https://github.com/LALIT-SEKHAR/movieapp",
             "website_link": "https://movieflex.lalitsekhar.dev",
             "startedat": null,
