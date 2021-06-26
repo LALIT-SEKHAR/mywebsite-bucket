@@ -1,0 +1,30 @@
+{
+    "name":"lalit sekhar behera",
+    "logo":null,
+    "profile_img":null,
+    "about": null,
+    "social_link":[
+        {
+            "name":"github",
+            "link":"https://github.com/LALIT-SEKHAR"
+        }
+    ],
+    "projects":[
+        {
+            "name":"movieflex",
+            "about": null,
+            "logo":"https://raw.githubusercontent.com/LALIT-SEKHAR/movieapp/master/public/movieflex_logo.png",
+            "demo_img":null,
+            "github":"https://github.com/LALIT-SEKHAR/movieapp",
+            "website_link": "https://movieflex.lalitsekhar.dev",
+            "startedat": null,
+            "endedat":null
+        }
+    ],
+    "skillsandtools":[
+        {
+            "name":null,
+            "logo_link":null
+        }
+    ]
+}
