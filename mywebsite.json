@@ -20,6 +20,16 @@
             "startedat": null,
             "endedat":null
         }
+        {
+            "name":"brickgame/",
+            "about": null,
+            "logo":"https://raw.githubusercontent.com/LALIT-SEKHAR/BRICK-GAME/master/BRICKGAME.png",
+            "demo_img": "https://raw.githubusercontent.com/LALIT-SEKHAR/mywebsite-bucket/master/website_screenshot/brickgame.png",
+            "github":"https://github.com/LALIT-SEKHAR/BRICK-GAME",
+            "website_link": "https://brickgame.lalitsekhar.dev/",
+            "startedat": null,
+            "endedat":null
+        }
     ],
     "skillsandtools":[
         {
