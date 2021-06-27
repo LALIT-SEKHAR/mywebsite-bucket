@@ -43,8 +43,48 @@
     ],
     "skillsandtools":[
         {
-            "name":null,
-            "logo_link":null
+            "name":"html",
+            "logo_link": "https://raw.githubusercontent.com/LALIT-SEKHAR/mywebsite-bucket/master/skills_and_tools_logos/html.svg"
+        },
+        {
+            "name":"css",
+            "logo_link": "https://raw.githubusercontent.com/LALIT-SEKHAR/mywebsite-bucket/master/skills_and_tools_logos/css.svg"
+        },
+        {
+            "name":"javascript",
+            "logo_link": "https://raw.githubusercontent.com/LALIT-SEKHAR/mywebsite-bucket/master/skills_and_tools_logos/javascript.svg"
+        },
+        {
+            "name":"java",
+            "logo_link": "https://raw.githubusercontent.com/LALIT-SEKHAR/mywebsite-bucket/master/skills_and_tools_logos/java.svg"
+        },
+        {
+            "name":"reactjs",
+            "logo_link": "https://raw.githubusercontent.com/LALIT-SEKHAR/mywebsite-bucket/master/skills_and_tools_logos/reactjs.svg"
+        },
+        {
+            "name":"expressjs",
+            "logo_link": "https://raw.githubusercontent.com/LALIT-SEKHAR/mywebsite-bucket/master/skills_and_tools_logos/expressjs.svg"
+        },
+        {
+            "name":"typescript",
+            "logo_link": "https://raw.githubusercontent.com/LALIT-SEKHAR/mywebsite-bucket/master/skills_and_tools_logos/typescript.svg"
+        },
+        {
+            "name":"mongodb",
+            "logo_link": "https://raw.githubusercontent.com/LALIT-SEKHAR/mywebsite-bucket/master/skills_and_tools_logos/mongodb.svg"
+        },
+        {
+            "name":"git",
+            "logo_link": "https://raw.githubusercontent.com/LALIT-SEKHAR/mywebsite-bucket/master/skills_and_tools_logos/git.svg"
+        },
+        {
+            "name":"autocad",
+            "logo_link": "https://raw.githubusercontent.com/LALIT-SEKHAR/mywebsite-bucket/master/skills_and_tools_logos/autocad.svg"
+        },
+        {
+            "name":"arduino",
+            "logo_link": "https://raw.githubusercontent.com/LALIT-SEKHAR/mywebsite-bucket/master/skills_and_tools_logos/arduino.svg"
         }
     ]
 }
