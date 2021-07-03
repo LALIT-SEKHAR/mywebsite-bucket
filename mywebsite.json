@@ -7,6 +7,10 @@
         {
             "name":"github",
             "link":"https://github.com/LALIT-SEKHAR"
+        },
+        {
+            "name":"linkedin",
+            "link":"https://www.linkedin.com/in/lalit-sekhar"
         }
     ],
     "projects":[
@@ -17,8 +21,14 @@
             "demo_img": "https://raw.githubusercontent.com/LALIT-SEKHAR/mywebsite-bucket/master/website_screenshot/movieflex.png",
             "github":"https://github.com/LALIT-SEKHAR/movieapp",
             "website_link": "https://movieflex.lalitsekhar.dev",
-            "startedat": null,
-            "endedat":null
+            "startedate": "23-Jul-2020",
+            "endedate": "2-Sep-2020",
+            "used_toolsandtechnology":[
+                "reactjs",
+                "html",
+                "css",
+                "javascript"
+            ]
         },
         {
             "name":"brick game",
@@ -27,8 +37,13 @@
             "demo_img": "https://raw.githubusercontent.com/LALIT-SEKHAR/mywebsite-bucket/master/website_screenshot/brickgame.png",
             "github":"https://github.com/LALIT-SEKHAR/BRICK-GAME",
             "website_link": "https://brickgame.lalitsekhar.dev/",
-            "startedat": null,
-            "endedat":null
+            "startedate": "29-May-2020",
+            "endedate": "29-May-2020",
+            "used_toolsandtechnology":[
+                "javascript",
+                "html",
+                "css"
+            ]
         },
         {
             "name":"age calculator",
@@ -37,10 +52,61 @@
             "demo_img": "https://raw.githubusercontent.com/LALIT-SEKHAR/mywebsite-bucket/master/website_screenshot/agecalculator.png",
             "github":"https://github.com/LALIT-SEKHAR/Age_Calculator",
             "website_link": "https://agecalculator.lalitsekhar.dev/",
-            "startedat": null,
-            "endedat":null
+            "startedate": "7 May 2020",
+            "endedate": "5 May 2020",
+            "used_toolsandtechnology":[
+                "javascript",
+                "html",
+                "css"
+            ]
+        },
+        {
+            "name":"wall clock",
+            "about": null,
+            "logo":"https://raw.githubusercontent.com/LALIT-SEKHAR/Clock/master/images/Group_2.png",
+            "demo_img": "https://raw.githubusercontent.com/LALIT-SEKHAR/mywebsite-bucket/master/website_screenshot/wallclock.png",
+            "github":"https://github.com/LALIT-SEKHAR/Clock",
+            "website_link": "https://wallclock.lalitsekhar.dev/",
+            "startedate": "7-May-2020",
+            "endedate": "29-Apr-2020",
+            "used_toolsandtechnology":[
+                "javascript",
+                "html",
+                "css"
+            ]
+        },
+        {
+            "name":"calculatorone",
+            "about": null,
+            "logo":"https://raw.githubusercontent.com/LALIT-SEKHAR/Calculator/master/Calclogo.png",
+            "demo_img": "https://raw.githubusercontent.com/LALIT-SEKHAR/mywebsite-bucket/master/website_screenshot/calculatorone.png",
+            "github":"https://github.com/LALIT-SEKHAR/Calculator",
+            "website_link": "https://calculatorone.lalitsekhar.dev/",
+            "startedate": "7 May 2020",
+            "endedate": "5-Apr-2020",
+            "used_toolsandtechnology":[
+                "javascript",
+                "html",
+                "css"
+            ]
+        },
+        {
+            "name":"https://github.com/LALIT-SEKHAR/my-own-momentom",
+            "about": null,
+            "logo": null,
+            "demo_img": "https://raw.githubusercontent.com/LALIT-SEKHAR/mywebsite-bucket/master/website_screenshot/momentom.png",
+            "github":"https://github.com/LALIT-SEKHAR/my-own-momentom",
+            "website_link": "https://momentom.lalitsekhar.dev/",
+            "startedate": "14-Aug-2020",
+            "endedate": "1-Sep-2020",
+            "used_toolsandtechnology":[
+                "reactjs",
+                "javascript",
+                "html",
+                "css"
+            ]
         }
-    ],
+        ],
     "skillsandtools":[
         {
             "name":"html",
